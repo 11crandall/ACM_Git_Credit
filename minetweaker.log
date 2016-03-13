@@ -1,0 +1,146 @@
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command mfr
+INFO: Adding Amethyst Ore to ore dictionary entry oreAmethyst
+INFO: Adding Rosite Ore to ore dictionary entry oreRosite
+INFO: Adding Jade Ore to ore dictionary entry oreJade
+INFO: Adding Limonite Ore to ore dictionary entry oreLimonite
+INFO: Adding Sapphire Ore to ore dictionary entry oreSapphire
+INFO: Adding Runium Ore to ore dictionary entry oreRunium
+INFO: Adding Orechid Ore Weight: oreGold:2680
+INFO: Adding Orechid Ore Weight: oreIron:24109
+INFO: Adding Orechid Ore Weight: oreCoal:44510
+INFO: Adding Orechid Ore Weight: oreLapis:1114
+INFO: Adding Orechid Ore Weight: oreDiamond:1000
+INFO: Adding Orechid Ore Weight: oreRedstone:8022
+INFO: Adding Orechid Ore Weight: oreEmerald:780
+INFO: Adding Orechid Ore Weight: oreCopper:3974
+INFO: Adding Orechid Ore Weight: oreTin:4214
+INFO: Adding Orechid Ore Weight: oreAluminum:3839
+INFO: Adding Orechid Ore Weight: oreCinnabar:3958
+INFO: Adding Orechid Ore Weight: oreInfusedAir:1248
+INFO: Adding Orechid Ore Weight: oreInfusedFire:1248
+INFO: Adding Orechid Ore Weight: oreInfusedWater:1248
+INFO: Adding Orechid Ore Weight: oreInfusedEarth:1248
+INFO: Adding Orechid Ore Weight: oreInfusedOrder:1248
+INFO: Adding Orechid Ore Weight: oreInfusedEntropy:1248
+INFO: Adding Orechid Ore Weight: oreAmber:2345
+INFO: Adding Orechid Ore Weight: oreAmethyst:2360
+INFO: Adding Orechid Ore Weight: oreRosite:535
+INFO: Adding Orechid Ore Weight: oreJade:481
+INFO: Adding Orechid Ore Weight: oreLimonite:22443
+INFO: Adding Orechid Ore Weight: oreSapphire:343
+INFO: Adding Orechid Ore Weight: oreRunium:9458
+INFO: Adding Nether Gems to ore dictionary entry dimensionalGem
+INFO: Adding Haven Gems to ore dictionary entry dimensionalGem
+INFO: Adding Abyssal Gems to ore dictionary entry dimensionalGem
+INFO: Adding Precasian Gems to ore dictionary entry dimensionalGem
+INFO: Adding Dustopia Gems to ore dictionary entry dimensionalGem
+INFO: Adding L'borean Gems to ore dictionary entry dimensionalGem
+INFO: Adding Deeplands Gems to ore dictionary entry dimensionalGem
+INFO: Adding Mysterium Gems to ore dictionary entry dimensionalGem
+INFO: Adding Greckon Gems to ore dictionary entry dimensionalGem
+INFO: Adding Barathos Gems to ore dictionary entry dimensionalGem
+INFO: Adding Runandor Gems to ore dictionary entry dimensionalGem
+INFO: Adding Vox Ponds Gems to ore dictionary entry dimensionalGem
+INFO: Adding Gardencia Gems to ore dictionary entry dimensionalGem
+INFO: Adding Iromine Gems to ore dictionary entry dimensionalGem
+INFO: Adding Lunalus Gems to ore dictionary entry dimensionalGem
+INFO: Adding Lelyetia Gems to ore dictionary entry dimensionalGem
+INFO: Adding recipe for book
+INFO: Adding recipe for book
+INFO: Removing 33 recipes
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Adding recipe for Ender Chest
+INFO: Removing 16 recipes
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Pouch
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Adding recipe for Ender Tank
+INFO: Removing 1 recipes
+INFO: Adding recipe for Spot Loader
+INFO: Removing 1 recipes
+INFO: Adding recipe for Chunk Loader
+INFO: Removing 1 recipes
+INFO: Adding recipe for Item Translocator
+INFO: Removing 1 recipes
+INFO: Adding recipe for Liquid Translocator
+INFO: Removing 2 recipes
+INFO: Adding recipe for Glider Wing
+INFO: Removing 1 recipes
+INFO: Adding recipe for Hang Glider
+INFO: Removing 1 recipes
+INFO: Adding recipe for Tainted Blood Pendant
+INFO: Removing 1 recipes
+INFO: Adding recipe for Flügel Tiara
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
