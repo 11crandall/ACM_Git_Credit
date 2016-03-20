@@ -1,37 +1,229 @@
-[19:38:37] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[19:39:16] [Server thread/INFO]: Loading properties
-[19:39:17] [Server thread/INFO]: Default game type: SURVIVAL
-[19:39:17] [Server thread/INFO]: Generating keypair
-[19:39:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:39:28] [Server thread/WARN]: Failed to load white-list: 
-java.lang.NullPointerException
-	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:132) ~[om.class:?]
+[19:12:16] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[19:12:42] [Server thread/INFO]: Loading properties
+[19:12:42] [Server thread/INFO]: Default game type: SURVIVAL
+[19:12:42] [Server thread/INFO]: Generating keypair
+[19:12:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:12:49] [Server thread/WARN]: Failed to load white-list: 
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.Gson.assertFullConsumption(Gson.java:779) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:769) ~[Gson.class:?]
+	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:125) ~[om.class:?]
 	at net.minecraft.server.dedicated.DedicatedPlayerList.func_72418_v(SourceFile:123) [ls.class:?]
 	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:30) [ls.class:?]
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:211) [lt.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
-[19:39:29] [Server thread/INFO]: Preparing level "world"
-[19:39:30] [Server thread/INFO]: Preparing start region for level 0
-[19:39:31] [Server thread/INFO]: Preparing spawn area: 47%
-[19:39:33] [Server thread/INFO]: Preparing spawn area: 99%
-[19:39:33] [Server thread/INFO]: Done (5.190s)! For help, type "help" or "?"
-[19:39:40] [AromaBackup/INFO]: [§1AromaBackup§r] Starting Backup. Server may lag for a bit!
-[19:39:41] [AromaBackup/INFO]: [AromaBackup: Saved the world]
-[19:39:41] [AromaBackup/INFO]: [AromaBackup: Turned off world auto-saving]
-[19:39:43] [AromaBackup/INFO]: [§1AromaBackup§r] Server Backup Done!
-[19:39:43] [AromaBackup/INFO]: [AromaBackup: Turned on world auto-saving]
-[19:39:43] [AromaBackup/INFO]: [§1AromaBackup§r] Next scheduled backup in 120 minutes.
-[19:50:55] [User Authenticator #1/INFO]: UUID of player twilitezelda is 27a844ae-aea3-4605-a654-2027a4539942
-[19:50:56] [Server thread/INFO]: twilitezelda[/140.186.140.182:20809] logged in with entity id 471 at (197.60562603393507, 71.0, 326.31541792574086)
-[19:50:56] [Server thread/INFO]: twilitezelda joined the game
-[19:57:50] [Server thread/INFO]: twilitezelda fell from a high place
-[19:58:19] [Server thread/INFO]: twilitezelda was slain by Charger
-[20:00:01] [Server thread/INFO]: twilitezelda lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:00:01] [Server thread/INFO]: twilitezelda left the game
-[20:22:42] [Server thread/INFO]: Stopping the server
-[20:22:42] [Server thread/INFO]: Stopping server
-[20:22:42] [Server thread/INFO]: Saving players
-[20:22:42] [Server thread/INFO]: Saving worlds
-[20:22:42] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[20:22:42] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1505) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1386) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:531) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
+	at com.google.gson.Gson.assertFullConsumption(Gson.java:775) ~[Gson.class:?]
+	... 7 more
+[19:12:50] [Server thread/INFO]: Preparing level "world"
+[19:12:51] [Server thread/INFO]: Preparing start region for level 0
+[19:12:52] [Server thread/INFO]: Preparing spawn area: 96%
+[19:12:53] [Server thread/INFO]: Done (3.097s)! For help, type "help" or "?"
+[19:13:00] [AromaBackup/INFO]: [§1AromaBackup§r] Starting Backup. Server may lag for a bit!
+[19:13:00] [AromaBackup/INFO]: [AromaBackup: Saved the world]
+[19:13:00] [AromaBackup/INFO]: [AromaBackup: Turned off world auto-saving]
+[19:13:03] [AromaBackup/INFO]: [§1AromaBackup§r] Server Backup Done!
+[19:13:03] [AromaBackup/INFO]: [AromaBackup: Turned on world auto-saving]
+[19:13:03] [AromaBackup/INFO]: [§1AromaBackup§r] Next scheduled backup in 120 minutes.
+[19:16:05] [User Authenticator #1/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:16:10] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:58985] logged in with entity id 452 at (189.5, 71.0, 250.5)
+[19:16:10] [Server thread/INFO]: AnthonyMeacham joined the game
+[19:16:42] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:16:42] [Server thread/INFO]: AnthonyMeacham left the game
+[19:17:35] [User Authenticator #2/INFO]: UUID of player twilitezelda is 27a844ae-aea3-4605-a654-2027a4539942
+[19:17:35] [Server thread/INFO]: twilitezelda[/192.168.0.150:53982] logged in with entity id 1188 at (172.6085025727449, 70.0, 273.3149061759733)
+[19:17:35] [Server thread/INFO]: twilitezelda joined the game
+[19:18:42] [User Authenticator #3/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:19:01] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:19:01] [Server thread/INFO]: AnthonyMeacham left the game
+[19:19:34] [Server thread/INFO]: twilitezelda has just earned the achievement [Taking Inventory]
+[19:19:37] [User Authenticator #4/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:19:56] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:58994] logged in with entity id 4834 at (189.5, 71.0, 250.5)
+[19:19:56] [Server thread/INFO]: AnthonyMeacham joined the game
+[19:20:40] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:20:40] [Server thread/INFO]: AnthonyMeacham left the game
+[19:20:54] [User Authenticator #5/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:21:18] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:58999] logged in with entity id 7092 at (189.5, 71.0, 250.5)
+[19:21:18] [Server thread/INFO]: AnthonyMeacham joined the game
+[19:21:56] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:21:56] [Server thread/INFO]: AnthonyMeacham left the game
+[19:22:16] [User Authenticator #6/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:22:39] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:59002] logged in with entity id 9240 at (189.5, 71.0, 250.5)
+[19:22:39] [Server thread/INFO]: AnthonyMeacham joined the game
+[19:22:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2833ms behind, skipping 56 tick(s)
+[19:23:16] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:23:16] [Server thread/INFO]: AnthonyMeacham left the game
+[19:23:37] [User Authenticator #7/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:23:50] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:59011] logged in with entity id 10578 at (189.5, 71.0, 250.5)
+[19:23:50] [Server thread/INFO]: AnthonyMeacham joined the game
+[19:23:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4388ms behind, skipping 87 tick(s)
+[19:24:23] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:24:23] [Server thread/INFO]: AnthonyMeacham left the game
+[19:24:31] [User Authenticator #8/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:24:45] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:59015] logged in with entity id 12513 at (189.5, 71.0, 250.5)
+[19:24:45] [Server thread/INFO]: AnthonyMeacham joined the game
+[19:25:06] [Server thread/INFO]: AnthonyMeacham was slain by Cyclops
+[19:25:11] [Server thread/INFO]: twilitezelda has just earned the achievement [Getting Wood]
+[19:25:17] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:25:17] [Server thread/INFO]: AnthonyMeacham left the game
+[19:25:45] [User Authenticator #9/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:25:58] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:59018] logged in with entity id 14526 at (189.5, 71.0, 250.5)
+[19:25:58] [Server thread/INFO]: AnthonyMeacham joined the game
+[19:26:12] [Server thread/INFO]: AnthonyMeacham was slain by Cyclops
+[19:26:39] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:26:39] [Server thread/INFO]: AnthonyMeacham left the game
+[19:26:58] [User Authenticator #10/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:27:15] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:59028] logged in with entity id 16562 at (188.5, 71.0, 251.5)
+[19:27:15] [Server thread/INFO]: AnthonyMeacham joined the game
+[19:28:01] [Server thread/INFO]: twilitezelda has just earned the achievement [Sky of Beginning]
+[19:28:21] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:28:21] [Server thread/INFO]: AnthonyMeacham left the game
+[19:29:22] [User Authenticator #11/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:29:46] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:59033] logged in with entity id 20167 at (183.5, 71.0, 247.5)
+[19:29:46] [Server thread/INFO]: AnthonyMeacham joined the game
+[19:29:50] [Server thread/INFO]: twilitezelda was slain by Cyclops
+[19:30:19] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:30:19] [Server thread/INFO]: AnthonyMeacham left the game
+[19:30:35] [Server thread/INFO]: twilitezelda was slain by Charger
+[19:33:22] [Server thread/INFO]: twilitezelda was blown up by Creeper
+[19:59:12] [Server thread/INFO]: twilitezelda has just earned the achievement [Benchmarking]
+[20:00:05] [Server thread/INFO]: twilitezelda has just earned the achievement [Time to Mine!]
+[20:05:27] [User Authenticator #12/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:05:30] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:49349] logged in with entity id 44516 at (183.5, 71.0, 247.5)
+[20:05:30] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:06:54] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:06:54] [Server thread/INFO]: AnthonyMeacham left the game
+[20:07:06] [User Authenticator #13/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:07:12] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:49358] logged in with entity id 45697 at (187.48910681278025, 71.0, 251.82843389401918)
+[20:07:12] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:07:44] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:07:44] [Server thread/INFO]: AnthonyMeacham left the game
+[20:07:49] [User Authenticator #14/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:07:53] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:49363] logged in with entity id 46584 at (187.48910681278025, 71.0, 251.82843389401918)
+[20:07:53] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:08:27] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:08:27] [Server thread/INFO]: AnthonyMeacham left the game
+[20:08:32] [User Authenticator #15/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:08:36] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:49366] logged in with entity id 47558 at (188.63823265082362, 71.0, 252.4260403609363)
+[20:08:36] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:09:08] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:09:08] [Server thread/INFO]: AnthonyMeacham left the game
+[20:09:15] [User Authenticator #16/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:09:41] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:49373] logged in with entity id 47962 at (188.63823265082362, 71.0, 252.4260403609363)
+[20:09:41] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:10:16] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:10:16] [Server thread/INFO]: AnthonyMeacham left the game
+[20:29:15] [Server thread/INFO]: twilitezelda has just earned the achievement [Hot Topic]
+[20:29:27] [User Authenticator #17/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:29:30] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:49824] logged in with entity id 56432 at (188.63823265082362, 71.0, 252.4260403609363)
+[20:29:30] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:30:06] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:30:06] [Server thread/INFO]: AnthonyMeacham left the game
+[20:35:05] [User Authenticator #18/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:35:10] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:50046] logged in with entity id 58432 at (188.63823265082362, 71.0, 252.4260403609363)
+[20:35:10] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:35:56] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:35:56] [Server thread/INFO]: AnthonyMeacham left the game
+[20:36:49] [Server thread/INFO]: twilitezelda lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:36:49] [Server thread/INFO]: twilitezelda left the game
+[20:37:22] [User Authenticator #19/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:37:26] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:50059] logged in with entity id 59163 at (188.63823265082362, 71.0, 252.4260403609363)
+[20:37:26] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:38:06] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:38:06] [Server thread/INFO]: AnthonyMeacham left the game
+[20:38:22] [User Authenticator #20/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:38:25] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:50072] logged in with entity id 60476 at (188.63823265082362, 71.0, 252.4260403609363)
+[20:38:25] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:38:57] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:38:57] [Server thread/INFO]: AnthonyMeacham left the game
+[20:47:24] [User Authenticator #21/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:47:38] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:50300] logged in with entity id 61250 at (188.63823265082362, 71.0, 252.4260403609363)
+[20:47:38] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:48:11] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[20:48:14] [Server thread/INFO]: --- Showing help page 1 of 11 (/help <page>) ---
+[20:48:14] [Server thread/INFO]: /achievement give <stat_name> [player]
+[20:48:14] [Server thread/INFO]: /aroma1997 OR /aroma1997 reloadclient
+[20:48:14] [Server thread/INFO]: /backup OR /aroma1997 reloadclient
+[20:48:14] [Server thread/INFO]: /bacon
+[20:48:14] [Server thread/INFO]: /ban <name> [reason ...]
+[20:48:14] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[20:48:14] [Server thread/INFO]: /banlist [ips|players]
+[20:48:26] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:48:26] [Server thread/INFO]: AnthonyMeacham left the game
+[20:48:51] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[20:48:59] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[20:49:02] [Server thread/INFO]: --- Showing help page 3 of 11 (/help <page>) ---
+[20:49:02] [Server thread/INFO]: /difficulty <new difficulty>
+[20:49:02] [Server thread/INFO]: /dumpOredict
+[20:49:02] [Server thread/INFO]: /dumpTools
+[20:49:02] [Server thread/INFO]: /dumphandlers
+[20:49:02] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier]
+[20:49:02] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
+[20:49:02] [Server thread/INFO]: /enchiridion refresh
+[20:49:13] [Server thread/INFO]: --- Showing help page 4 of 11 (/help <page>) ---
+[20:49:13] [Server thread/INFO]: /etic_inspectHand
+[20:49:13] [Server thread/INFO]: /etic_toolStats
+[20:49:13] [Server thread/INFO]: flimflam <player> [<effect>]
+[20:49:13] [Server thread/INFO]: Use /forge <subcommand>. Subcommands are tps, track
+[20:49:13] [Server thread/INFO]: /gamemode <mode> [player]
+[20:49:13] [Server thread/INFO]: /gamerule <rule name> <value> OR /gamerule <rule name>
+[20:49:13] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
+[20:49:23] [Server thread/INFO]: --- Showing help page 5 of 11 (/help <page>) ---
+[20:49:23] [Server thread/INFO]: /heeadmin
+[20:49:23] [Server thread/INFO]: /heedebug
+[20:49:23] [Server thread/INFO]: /help [page|command name]
+[20:49:23] [Server thread/INFO]: /hunger [player] <value>
+[20:49:23] [Server thread/INFO]: You must specify which player you wish to perform this action on.
+[20:49:35] [Server thread/INFO]: --- Showing help page 6 of 11 (/help <page>) ---
+[20:49:35] [Server thread/INFO]: /list
+[20:49:35] [Server thread/INFO]: luck <player> [<amount>]
+[20:49:35] [Server thread/INFO]: /me <action ...>
+[20:49:35] [Server thread/INFO]: /list
+[20:49:35] [Server thread/INFO]: ob_inventory store <player> OR ob_inventory restore <player> <file without 'inventory-' and '.dat'> OR ob_inventory spawn <file without 'inventory-' and '.dat'> [<sub_inventory OR 'main'>,  [<index of item>]]
+[20:49:35] [Server thread/INFO]: om_config_s save <modid> OR
+om_config_s help <modid> <category> <name> OR
+om_config_s get <modid> <category> <name> OR
+om_config_s clear <modid> <category> <name> OR
+om_config_s set <modid> <category> <name> <value>... OR
+om_config_s append <modid> <category> <name> <value>... OR
+om_config_s remove <modid> <category> <name> <value>... OR
+om_config_s default <modid> <category> <name> <value>... OR
+
+[20:49:35] [Server thread/INFO]: om_source_s class <class name>
+[20:49:51] [Server thread/INFO]: --- Showing help page 7 of 11 (/help <page>) ---
+[20:49:51] [Server thread/INFO]: /op <player>
+[20:49:51] [Server thread/INFO]: /pardon <name>
+[20:49:51] [Server thread/INFO]: /pardon-ip <address>
+[20:49:51] [Server thread/INFO]: /playsound <sound> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[20:49:51] [Server thread/INFO]: /save-all
+[20:49:51] [Server thread/INFO]: /save-off
+[20:49:51] [Server thread/INFO]: /save-on
+[20:50:02] [Server thread/INFO]: --- Showing help page 8 of 11 (/help <page>) ---
+[20:50:02] [Server thread/INFO]: /say <message ...>
+[20:50:02] [Server thread/INFO]: /scoreboard <objectives|players|teams>
+[20:50:02] [Server thread/INFO]: /seed
+[20:50:02] [Server thread/INFO]: /setblock <x> <y> <z> <TileName> [dataValue] [oldBlockHandling] [dataTag]
+[20:50:02] [Server thread/INFO]: /setidletimeout <Minutes until kick>
+[20:50:02] [Server thread/INFO]: /setworldspawn OR /setworldspawn <x> <y> <z>
+[20:50:02] [Server thread/INFO]: /spawnpoint OR /spawnpoint <player> OR /spawnpoint <player> <x> <y> <z>
+[20:50:07] [Server thread/INFO]: [Server] HI
+[20:50:42] [User Authenticator #22/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:51:06] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:50390] logged in with entity id 62845 at (188.63823265082362, 71.0, 252.4260403609363)
+[20:51:06] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:51:49] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:51:49] [Server thread/INFO]: AnthonyMeacham left the game
+[20:52:36] [User Authenticator #23/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:52:39] [Server thread/INFO]: AnthonyMeacham[/192.168.0.15:50498] logged in with entity id 64047 at (188.63823265082362, 71.0, 252.4260403609363)
+[20:52:39] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:53:13] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:53:13] [Server thread/INFO]: AnthonyMeacham left the game
+[20:53:19] [User Authenticator #24/INFO]: UUID of player twilitezelda is 27a844ae-aea3-4605-a654-2027a4539942
+[20:53:20] [Server thread/INFO]: twilitezelda[/192.168.0.150:57313] logged in with entity id 64884 at (227.86725256876966, 62.5, 226.13891307196243)
+[20:53:20] [Server thread/INFO]: twilitezelda joined the game
+[20:54:19] [Server thread/INFO]: twilitezelda lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:54:19] [Server thread/INFO]: twilitezelda left the game
