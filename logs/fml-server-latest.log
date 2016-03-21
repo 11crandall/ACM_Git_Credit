@@ -5937,3 +5937,51 @@
 [20:07:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [20:08:10] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: AnthonyMeacham
 [20:08:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:09:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:09:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:10:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:11:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:12:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:12:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:13:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:14:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:15:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:15:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:16:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:17:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:17:57] [Netty IO #4/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:17:57] [Netty IO #4/INFO] [FML/]: Client protocol version 2
+[20:17:57] [Netty IO #4/TRACE] [FML/]: $ModList:63 mods->FMLHandshakeServerState$2:HELLO
+[20:17:57] [Netty IO #4/INFO] [FML/]: Client attempting to join with 63 mods : NotEnoughItems@1.0.5.118,Thaumcraft@4.2.3.5,Waila@1.5.10,TConstruct@1.7.10-1.8.7.build979,AromaBackup@0.0.0.5,Enchiridion2@2.0.2a,NEIAddons@1.12.12.37,BiblioCraft@1.11.2,Ztones@1.7.10,HardcoreEnderExpansion@1.8.4,OpenModsCore@0.8,NEIAddons|Developer@1.12.12.37,wawla@1.3.1,bspkrsCore@6.15,mcp@9.05,Mantle@1.7.10-0.3.2.jenkins188,journeymap@5.1.1b8,inventorytweaks@1.59-dev-152-cf6e263,harvestcraft@1.7.10j,lootablebodies@1.3.6,props@2.1.1,NEIAddons|AppEng@1.12.12.37,OpenBlocks@1.4.4,EnderStorage@1.4.7.37,CarpentersBlocks@3.3.7,StevesWorkshop@0.5.1,Translocator@1.1.2.15,ResourceLoader@1.2,CustomMainMenu@1.8,Enchiridion@1.3,FastCraft@1.21,Forge@10.13.4.1448,IronChest@6.0.62.742,RedstonePasteMod@1.6.2,defaultkeys@1.0.24,NEIAddons|Botany@1.12.12.37,Aroma1997Core@1.0.2.14,CodeChickenCore@1.0.7.47,SpiceOfLife@1.2.4,ThaumicTinkerer@unspecified,ChickenChunks@1.3.4.19,MineTweaker3@3.0.10,modtweaker2@0.9.4,JABBA@1.2.1,ThaumicTinkerer-preloader@0.1,ExtraTiC@1.4.5,AppleCore@1.1.0,IguanaTweaksTConstruct@1.7.10-2.1.5.140,FML@7.10.99.99,NEIAddons|Forestry@1.12.12.37,TiCTooltips@1.2.5,Aroma1997CoreHelper@1.0.2.14,chisel@2.5.1.44,Baubles@1.0.1.10,nevermine@2.3,NEIAddons|CraftingTables@1.12.12.37,NEIAddons|ExNihilo@1.12.12.37,witchery@0.24.1,fastleafdecay@1.3,OpenMods@0.8,Botania@r1.7-226,PTRModelLib@1.0.0,StartingInventory@1.7.10.r03
+[20:17:57] [Netty IO #4/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[20:17:57] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:17:57] [Netty IO #4/DEBUG] [OpenMods/]: openmods.network.IdSyncManager$InboundHandler.userEventTriggered(IdSyncManager.java:50): Sending id data for player: EntityPlayerMP['AnthonyMeacham'/18410, l='world', x=180.50, y=71.00, z=243.50]
+[20:17:57] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:17:57] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:17:57] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:17:57] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[20:17:58] [Server thread/INFO] [STDOUT/]: [net.nevermine.assist.UpdateChecker:getWiki:43]: Wiki is online.
+[20:17:58] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: AnthonyMeacham
+[20:17:58] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: AnthonyMeacham
+[20:17:58] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['AnthonyMeacham'/18410, l='world', x=194.67, y=67.00, z=255.56] connected. Sending ping
+[20:18:11] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 0
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 1
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 2
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 3
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 4
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 5
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 6
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 7
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 8
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 9
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 10
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 11
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 12
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 13
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 14
+[20:18:20] [Server thread/DEBUG] [OpenMods/]: openblocks.common.MapDataManager$MapDataResponseEvent.writeToStream(MapDataManager.java:85): Trying to propagate invalid map data 15
+[20:18:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:19:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:20:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:20:34] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: AnthonyMeacham

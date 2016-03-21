@@ -31,3 +31,15 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [19:18:20] [AromaBackup/INFO]: [§1AromaBackup§r] Server Backup Done!
 [19:18:20] [AromaBackup/INFO]: [AromaBackup: Turned on world auto-saving]
 [19:18:20] [AromaBackup/INFO]: [§1AromaBackup§r] Next scheduled backup in 120 minutes.
+[19:42:22] [User Authenticator #1/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:42:23] [Server thread/INFO]: AnthonyMeacham[/192.168.0.150:58760] logged in with entity id 804 at (260.63030732458833, 67.0, 245.57285076407425)
+[19:42:23] [Server thread/INFO]: AnthonyMeacham joined the game
+[19:44:04] [Server thread/INFO]: AnthonyMeacham has just earned the achievement [Taking Inventory]
+[20:01:22] [Server thread/INFO]: AnthonyMeacham has just earned the achievement [Sky of Beginning]
+[20:08:10] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:08:10] [Server thread/INFO]: AnthonyMeacham left the game
+[20:17:57] [User Authenticator #2/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:17:57] [Server thread/INFO]: AnthonyMeacham[/192.168.0.150:58985] logged in with entity id 18410 at (194.6739259539196, 67.0, 255.56403675363313)
+[20:17:57] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:20:34] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:20:34] [Server thread/INFO]: AnthonyMeacham left the game
