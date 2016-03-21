@@ -1,9 +1,9 @@
-[19:17:09] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[19:17:52] [Server thread/INFO]: Loading properties
-[19:17:52] [Server thread/INFO]: Default game type: SURVIVAL
-[19:17:52] [Server thread/INFO]: Generating keypair
-[19:17:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:18:05] [Server thread/WARN]: Failed to load white-list: 
+[20:29:31] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[20:30:03] [Server thread/INFO]: Loading properties
+[20:30:03] [Server thread/INFO]: Default game type: SURVIVAL
+[20:30:03] [Server thread/INFO]: Generating keypair
+[20:30:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:30:12] [Server thread/WARN]: Failed to load white-list: 
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
 	at com.google.gson.Gson.assertFullConsumption(Gson.java:779) ~[Gson.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:769) ~[Gson.class:?]
@@ -20,26 +20,65 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
 	at com.google.gson.Gson.assertFullConsumption(Gson.java:775) ~[Gson.class:?]
 	... 7 more
-[19:18:06] [Server thread/INFO]: Preparing level "world"
-[19:18:08] [Server thread/INFO]: Preparing start region for level 0
-[19:18:09] [Server thread/INFO]: Preparing spawn area: 88%
-[19:18:10] [Server thread/INFO]: Preparing spawn area: 97%
-[19:18:10] [Server thread/INFO]: Done (4.935s)! For help, type "help" or "?"
-[19:18:18] [AromaBackup/INFO]: [§1AromaBackup§r] Starting Backup. Server may lag for a bit!
-[19:18:18] [AromaBackup/INFO]: [AromaBackup: Saved the world]
-[19:18:18] [AromaBackup/INFO]: [AromaBackup: Turned off world auto-saving]
-[19:18:20] [AromaBackup/INFO]: [§1AromaBackup§r] Server Backup Done!
-[19:18:20] [AromaBackup/INFO]: [AromaBackup: Turned on world auto-saving]
-[19:18:20] [AromaBackup/INFO]: [§1AromaBackup§r] Next scheduled backup in 120 minutes.
-[19:42:22] [User Authenticator #1/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
-[19:42:23] [Server thread/INFO]: AnthonyMeacham[/192.168.0.150:58760] logged in with entity id 804 at (260.63030732458833, 67.0, 245.57285076407425)
-[19:42:23] [Server thread/INFO]: AnthonyMeacham joined the game
-[19:44:04] [Server thread/INFO]: AnthonyMeacham has just earned the achievement [Taking Inventory]
-[20:01:22] [Server thread/INFO]: AnthonyMeacham has just earned the achievement [Sky of Beginning]
-[20:08:10] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:08:10] [Server thread/INFO]: AnthonyMeacham left the game
-[20:17:57] [User Authenticator #2/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
-[20:17:57] [Server thread/INFO]: AnthonyMeacham[/192.168.0.150:58985] logged in with entity id 18410 at (194.6739259539196, 67.0, 255.56403675363313)
-[20:17:57] [Server thread/INFO]: AnthonyMeacham joined the game
-[20:20:34] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[20:20:34] [Server thread/INFO]: AnthonyMeacham left the game
+[20:30:13] [Server thread/INFO]: Preparing level "world"
+[20:30:14] [Server thread/INFO]: Preparing start region for level 0
+[20:30:15] [Server thread/INFO]: Preparing spawn area: 93%
+[20:30:15] [Server thread/INFO]: Done (3.180s)! For help, type "help" or "?"
+[20:30:23] [AromaBackup/INFO]: [§1AromaBackup§r] Starting Backup. Server may lag for a bit!
+[20:30:23] [AromaBackup/INFO]: [AromaBackup: Saved the world]
+[20:30:23] [AromaBackup/INFO]: [AromaBackup: Turned off world auto-saving]
+[20:30:25] [AromaBackup/INFO]: [§1AromaBackup§r] Server Backup Done!
+[20:30:25] [AromaBackup/INFO]: [AromaBackup: Turned on world auto-saving]
+[20:30:25] [AromaBackup/INFO]: [§1AromaBackup§r] Next scheduled backup in 120 minutes.
+[20:31:17] [User Authenticator #1/INFO]: UUID of player twilitezelda is 27a844ae-aea3-4605-a654-2027a4539942
+[20:31:18] [Server thread/INFO]: twilitezelda[/192.168.0.150:12303] logged in with entity id 917 at (227.86725256876966, 62.5, 226.13891307196243)
+[20:31:18] [Server thread/INFO]: twilitezelda joined the game
+[20:31:30] [User Authenticator #2/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:31:34] [Server thread/INFO]: AnthonyMeacham[/96.3.52.218:59142] logged in with entity id 1216 at (192.4932202382647, 67.0, 253.81588079000718)
+[20:31:34] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:31:53] [Server thread/INFO]: <twilitezelda> also, i'm underground-ish
+[20:32:08] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:32:08] [Server thread/INFO]: AnthonyMeacham left the game
+[20:33:26] [User Authenticator #3/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:33:30] [Server thread/INFO]: AnthonyMeacham[/96.3.52.218:59148] logged in with entity id 1913 at (192.4932202382647, 67.0, 253.81588079000718)
+[20:33:30] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:33:35] [Server thread/INFO]: <twilitezelda> youre back!
+[20:34:07] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:34:07] [Server thread/INFO]: AnthonyMeacham left the game
+[20:34:42] [User Authenticator #4/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:34:47] [Server thread/INFO]: AnthonyMeacham[/96.3.52.218:59151] logged in with entity id 2550 at (192.4932202382647, 67.0, 253.81588079000718)
+[20:34:47] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:34:59] [Server thread/INFO]: twilitezelda has just earned the achievement [Getting an Upgrade]
+[20:35:19] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:35:19] [Server thread/INFO]: AnthonyMeacham left the game
+[20:36:09] [User Authenticator #5/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:36:14] [Server thread/INFO]: AnthonyMeacham[/96.3.52.218:59167] logged in with entity id 3098 at (192.4932202382647, 67.0, 253.81588079000718)
+[20:36:14] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:36:19] [Server thread/INFO]: <AnthonyMeacham> dicks
+[20:36:23] [Server thread/INFO]: <twilitezelda> DICKS
+[20:36:37] [Server thread/INFO]: [Server] DickS!!
+[20:36:49] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:36:49] [Server thread/INFO]: AnthonyMeacham left the game
+[20:39:54] [User Authenticator #6/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:39:57] [Server thread/INFO]: AnthonyMeacham[/96.3.52.218:59180] logged in with entity id 4603 at (192.4932202382647, 67.0, 253.81588079000718)
+[20:39:57] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:40:31] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:40:31] [Server thread/INFO]: AnthonyMeacham left the game
+[20:40:44] [User Authenticator #7/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:40:48] [Server thread/INFO]: AnthonyMeacham[/96.3.52.218:59189] logged in with entity id 5273 at (192.4932202382647, 67.0, 253.81588079000718)
+[20:40:48] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:41:24] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:41:24] [Server thread/INFO]: AnthonyMeacham left the game
+[20:42:59] [User Authenticator #8/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[20:43:04] [Server thread/INFO]: AnthonyMeacham[/96.3.52.218:59205] logged in with entity id 6251 at (192.4932202382647, 67.0, 253.81588079000718)
+[20:43:04] [Server thread/INFO]: AnthonyMeacham joined the game
+[20:43:38] [Server thread/INFO]: AnthonyMeacham lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:43:38] [Server thread/INFO]: AnthonyMeacham left the game
+[20:43:57] [Server thread/INFO]: twilitezelda lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:43:57] [Server thread/INFO]: twilitezelda left the game
+[20:44:12] [Server thread/INFO]: Stopping the server
+[20:44:12] [Server thread/INFO]: Stopping server
+[20:44:13] [Server thread/INFO]: Saving players
+[20:44:13] [Server thread/INFO]: Saving worlds
+[20:44:13] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[20:44:13] [Server thread/INFO]: Saving chunks for level 'world'/Nether
