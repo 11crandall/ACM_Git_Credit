@@ -1,9 +1,9 @@
-[07:40:11] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[07:41:03] [Server thread/INFO]: Loading properties
-[07:41:03] [Server thread/INFO]: Default game type: SURVIVAL
-[07:41:03] [Server thread/INFO]: Generating keypair
-[07:41:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:41:16] [Server thread/WARN]: Failed to load white-list: 
+[18:13:13] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[18:13:58] [Server thread/INFO]: Loading properties
+[18:13:58] [Server thread/INFO]: Default game type: SURVIVAL
+[18:13:58] [Server thread/INFO]: Generating keypair
+[18:13:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:14:10] [Server thread/WARN]: Failed to load white-list: 
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
 	at com.google.gson.Gson.assertFullConsumption(Gson.java:779) ~[Gson.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:769) ~[Gson.class:?]
@@ -20,19 +20,23 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
 	at com.google.gson.Gson.assertFullConsumption(Gson.java:775) ~[Gson.class:?]
 	... 7 more
-[07:41:17] [Server thread/INFO]: Preparing level "world"
-[07:41:19] [Server thread/INFO]: Preparing start region for level 0
-[07:41:20] [Server thread/INFO]: Preparing spawn area: 21%
-[07:41:21] [Server thread/INFO]: Preparing spawn area: 70%
-[07:41:22] [Server thread/INFO]: Done (5.861s)! For help, type "help" or "?"
-[07:41:30] [AromaBackup/INFO]: [§1AromaBackup§r] Starting Backup. Server may lag for a bit!
-[07:41:30] [AromaBackup/INFO]: [AromaBackup: Saved the world]
-[07:41:30] [AromaBackup/INFO]: [AromaBackup: Turned off world auto-saving]
-[07:41:33] [AromaBackup/INFO]: [§1AromaBackup§r] Server Backup Done!
-[07:41:33] [AromaBackup/INFO]: [AromaBackup: Turned on world auto-saving]
-[07:41:33] [AromaBackup/INFO]: [§1AromaBackup§r] Next scheduled backup in 120 minutes.
-[07:58:04] [User Authenticator #1/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
-[07:58:06] [Server thread/INFO]: AnthonyMeacham[/192.168.0.150:50566] logged in with entity id 839 at (192.4932202382647, 67.0, 253.81588079000718)
-[07:58:06] [Server thread/INFO]: AnthonyMeacham joined the game
-[07:58:49] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[07:58:49] [Server thread/INFO]: AnthonyMeacham left the game
+[18:14:11] [Server thread/INFO]: Preparing level "world"
+[18:14:13] [Server thread/INFO]: Preparing start region for level 0
+[18:14:14] [Server thread/INFO]: Preparing spawn area: 72%
+[18:14:14] [Server thread/INFO]: Done (3.923s)! For help, type "help" or "?"
+[18:14:22] [AromaBackup/INFO]: [§1AromaBackup§r] Starting Backup. Server may lag for a bit!
+[18:14:22] [AromaBackup/INFO]: [AromaBackup: Saved the world]
+[18:14:22] [AromaBackup/INFO]: [AromaBackup: Turned off world auto-saving]
+[18:14:24] [AromaBackup/INFO]: [§1AromaBackup§r] Server Backup Done!
+[18:14:24] [AromaBackup/INFO]: [AromaBackup: Turned on world auto-saving]
+[18:14:24] [AromaBackup/INFO]: [§1AromaBackup§r] Next scheduled backup in 120 minutes.
+[18:18:58] [User Authenticator #1/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[18:18:59] [Server thread/INFO]: AnthonyMeacham[/192.168.0.150:49677] logged in with entity id 859 at (193.39511328280534, 67.0, 255.03705121290892)
+[18:18:59] [Server thread/INFO]: AnthonyMeacham joined the game
+[18:21:19] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:21:19] [Server thread/INFO]: AnthonyMeacham left the game
+[19:46:13] [User Authenticator #2/INFO]: UUID of player AnthonyMeacham is 8a194f61-66d6-496c-a468-bdc455820193
+[19:46:14] [Server thread/INFO]: AnthonyMeacham[/192.168.0.150:49881] logged in with entity id 2225 at (193.39511328280534, 67.0, 255.03705121290892)
+[19:46:14] [Server thread/INFO]: AnthonyMeacham joined the game
+[19:57:04] [Server thread/INFO]: AnthonyMeacham lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:57:04] [Server thread/INFO]: AnthonyMeacham left the game
